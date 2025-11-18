@@ -75,9 +75,7 @@ It can be used by banks & payment systems to flag high-risk transactions.
 - Use **SMOTE** to handle class imbalance  
 - Try **advanced models** (XGBoost, LightGBM)  
 - Build a **Flask/Streamlit deployment**  
-- Add dashboards for visualization  
-
----
+- Add dashboards for visualization
 
 ## 📂 Repository Structure
 
@@ -93,6 +91,5 @@ Credit-Card-Fraud-Detection/
 ## 🙋‍♀️ Author  
 **Alishiba Ghatage**  
 GitHub: github.com/alishibaghatage
-
 
 
